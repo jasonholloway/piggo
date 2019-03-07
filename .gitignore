@@ -1,0 +1,8 @@
+*.DotSettings
+.vscode
+.vs
+
+bin
+obj
+packages
+
